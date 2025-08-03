@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+header img{
+    width:50%;
+}
+
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color:aquamarine;
+}
+
+table{
+    width: 100%;
+}
